@@ -48,12 +48,12 @@ public class CalcMethodDemo {
     }
 
     public static void displayOutput(int result, String resultType) {
-        System.out.println("============Welcome to Calculator - "+ resultType +" Module===============");
+        System.out.println("============Welcome to the Calculator - "+ resultType +" Module===============");
         System.out.println("Copyrights with original developer");
         System.out.println(resultType + " is : " + result);
     }
 
     public static String welcomeMessage() {
-        return "Welcome to Programming";
+        return "Welcome to the Programming World";
     }
 }
