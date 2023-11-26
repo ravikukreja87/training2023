@@ -1,2 +1,2 @@
 # training2023
-training2023 Nov
+This repository has code for training java in 2023.
