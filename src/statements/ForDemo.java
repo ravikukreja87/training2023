@@ -51,7 +51,7 @@ public class ForDemo {
 
         }
 
-        System.out.println("Exiting");
+        System.out.println("Exiting the program");
 
     }
 }
